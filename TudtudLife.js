@@ -24,7 +24,8 @@ if (study>5) {
 let subjects = ["Web System", "Event-Driven","OOP"];
 console.log("List of my subjects this sem:");
 for (let i = 0; i < subjects.length; i++) {
-console.log(subjects [i]);
+c
+onsole.log(subjects [i]);
 }
 
 function studentSummary() {
